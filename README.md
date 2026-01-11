@@ -1,40 +1,82 @@
-### HELLO 👋
-<br clear="both">
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#4CAF50;">Rishav Kumar</span>
+</h1>
 
-<h2 align="left">Hi 👋! My name is Rishav and I'm a Full-stack Developer, from India.</h2>
+<p align="center">
+  <b>Computer Science Undergraduate · Full Stack Developer</b><br/>
+  📍 India
+</p>
 
-###
-
-<img align="right" height="150" src="https://gifdb.com/images/high/berserk-2d-animation-o9g4i3tgadqx12k0.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="rishavkumar62@yahoo.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<p align="center">
+  <a href="https://linkedin.com/in/rishavkumar903">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42"/>
   </a>
-</div>
+  <a href="https://leetcode.com/rishav9031">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="42"/>
+  </a>
+  <a href="mailto:rishavkumar62@yahoo.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="42"/>
+  </a>
+</p>
 
-###
+
+<h2>About</h2>
+<p>
+Computer Science student with a strong focus on backend and full stack development.<br/>
+Experienced in building RESTful APIs, authentication systems, and database-driven applications.<br/>
+Interested in writing clean, scalable code and learning real-world software engineering practices.
+</p>
+
+<hr/>
+
+<h2>Skills</h2>
+
+<h4>Languages</h4>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+</p>
+
+<h4>Backend</h4>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+</p>
+
+<h4>Databases</h4>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+</p>
+
+<h4>Tools & Platforms</h4>
+<p>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+</p>
+
+<h4>Frontend</h4>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+</p>
+
+<hr/>
+
+<h2>Projects</h2>
+<ul>
+  <li><b>Library Management System</b> – Role-based access, CRUD APIs, MySQL</li>
+  <li><b>food-app</b></li>
+</ul>
+
+<hr/>
+
+<h2>Contact</h2>
+<ul>
+  <li>Email: rishavkumar62@yahoo.com</li>
+  <li>LinkedIn: <a href="https://linkedin.com/in/rishavkumar903">linkedin.com/in/rishavkumar903</a></li>
+  <li>LeetCode: <a href="https://leetcode.com/rishav9031">leetcode.com/rishav9031</a></li>
+</ul>
