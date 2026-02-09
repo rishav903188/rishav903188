@@ -80,3 +80,7 @@ Interested in writing clean, scalable code and learning real-world software engi
   <li>LinkedIn: <a href="https://linkedin.com/in/rishavkumar903">linkedin.com/in/rishavkumar903</a></li>
   <li>LeetCode: <a href="https://leetcode.com/rishav9031">leetcode.com/rishav9031</a></li>
 </ul>
+## 🐍 Contribution Snake
+
+![snake animation](https://github.com/rishav903188/rishav903188/blob/output/github-contribution-grid-snake.svg)
+
