@@ -1,86 +1,76 @@
-<h1 align="center">
-  👋 Hi, I'm <span style="color:#4CAF50;">Rishav Kumar</span>
-</h1>
+<h1 align="center">👋 Hi, I'm Rishav Kumar</h1>
 
 <p align="center">
-  <b>Computer Science Undergraduate · Full Stack Developer</b><br/>
+  <b>Full Stack Developer · Computer Science Undergraduate</b><br/>
   📍 India
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/rishavkumar903">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
   </a>
   <a href="https://leetcode.com/rishav9031">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="42"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="40"/>
   </a>
   <a href="mailto:rishavkumar62@yahoo.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="42"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
   </a>
 </p>
 
+---
 
-<h2>About</h2>
+## 🧠 About Me
+
+Computer Science undergraduate with strong focus on **backend and full stack development**.  
+Experienced in building **scalable web applications, real-time systems, and RESTful APIs**.  
+I enjoy designing **clean architectures** and solving real-world engineering problems.
+
+---
+
+## ⚙️ Tech Stack
+
+### 🚀 Languages
 <p>
-Computer Science student with a strong focus on backend and full stack development.<br/>
-Experienced in building RESTful APIs, authentication systems, and database-driven applications.<br/>
-Interested in writing clean, scalable code and learning real-world software engineering practices.
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/python.png" width="40"/>
 </p>
 
-<hr/>
-
-<h2>Skills</h2>
-
-<h4>Languages</h4>
+### 🧩 Backend
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png" width="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/express-js.png" width="40"/>
 </p>
 
-<h4>Backend</h4>
+### 🎨 Frontend
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+  <img src="https://img.icons8.com/color/48/react-native.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/tailwindcss.png" width="40"/>
 </p>
 
-<h4>Databases</h4>
+### 🗄️ Databases
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" width="40"/>
 </p>
 
-<h4>Tools & Platforms</h4>
+### ☁️ Tools & Cloud
 <p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/docker.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/git.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/linux.png" width="40"/>
 </p>
 
-<h4>Frontend</h4>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-</p>
+---
 
-<hr/>
+## 📫 Contact
 
-<h2>Projects</h2>
-<ul>
-  <li><b>Library Management System</b> – Role-based access, CRUD APIs, MySQL</li>
-  <li><b>food-app</b></li>
-</ul>
+- 📧 Email: rishavkumar62@yahoo.com  
+- 🔗 LinkedIn: linkedin.com/in/rishavkumar903  
 
-<hr/>
+---
 
-<h2>Contact</h2>
-<ul>
-  <li>Email: rishavkumar62@yahoo.com</li>
-  <li>LinkedIn: <a href="https://linkedin.com/in/rishavkumar903">linkedin.com/in/rishavkumar903</a></li>
-  <li>LeetCode: <a href="https://leetcode.com/rishav9031">leetcode.com/rishav9031</a></li>
-</ul>
 ## 🐍 Contribution Snake
 
 ![snake animation](https://github.com/rishav903188/rishav903188/blob/output/github-contribution-grid-snake.svg)
-
