@@ -1,76 +1,55 @@
-<h1 align="center">👋 Hi, I'm Rishav Kumar</h1>
+<h1 align="center">Rishav Kumar</h1>
 
 <p align="center">
   <b>Full Stack Developer · Computer Science Undergraduate</b><br/>
-  📍 India
+  India
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rishavkumar903">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
-  </a>
-  <a href="https://leetcode.com/rishav9031">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="40"/>
-  </a>
-  <a href="mailto:rishavkumar62@yahoo.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
-  </a>
+  <a href="https://linkedin.com/in/rishavkumar903">LinkedIn</a> •
+  <a href="https://leetcode.com/rishav9031">LeetCode</a> •
+  <a href="mailto:rishavkumar62@yahoo.com">Email</a>
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-Computer Science undergraduate with strong focus on **backend and full stack development**.  
-Experienced in building **scalable web applications, real-time systems, and RESTful APIs**.  
-I enjoy designing **clean architectures** and solving real-world engineering problems.
+I build scalable full stack applications with a strong focus on backend systems, real-time communication, and clean architecture.
 
----
-
-## ⚙️ Tech Stack
-
-### 🚀 Languages
-<p>
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/python.png" width="40"/>
-</p>
-
-### 🧩 Backend
-<p>
-  <img src="https://img.icons8.com/color/48/nodejs.png" width="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/express-js.png" width="40"/>
-</p>
-
-### 🎨 Frontend
-<p>
-  <img src="https://img.icons8.com/color/48/react-native.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/tailwindcss.png" width="40"/>
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://img.icons8.com/color/48/mongodb.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" width="40"/>
-</p>
-
-### ☁️ Tools & Cloud
-<p>
-  <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/docker.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/git.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/linux.png" width="40"/>
-</p>
+- Experience with REST APIs and production-level systems  
+- Built real-time applications using Socket.io  
+- Focused on writing maintainable and scalable code  
 
 ---
 
-## 📫 Contact
+## Tech Stack
 
-- 📧 Email: rishavkumar62@yahoo.com  
-- 🔗 LinkedIn: linkedin.com/in/rishavkumar903  
+**Languages**  
+C++, JavaScript, Python, SQL  
+
+**Frontend**  
+React.js, Tailwind CSS, Redux Toolkit  
+
+**Backend**  
+Node.js, Express.js  
+
+**Databases**  
+MongoDB, MySQL  
+
+**Tools & Cloud**  
+AWS (EC2, S3, IAM, RDS, VPC), Docker, Git, Linux, Socket.io  
 
 ---
 
-## 🐍 Contribution Snake
+## Contact
+
+Email: rishavkumar62@yahoo.com  
+LinkedIn: linkedin.com/in/rishavkumar903  
+GitHub: github.com/rishav903188  
+
+---
+
+## Contributions
 
 ![snake animation](https://github.com/rishav903188/rishav903188/blob/output/github-contribution-grid-snake.svg)
