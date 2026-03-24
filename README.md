@@ -46,7 +46,7 @@ AWS (EC2, S3, IAM, RDS, VPC), Docker, Git, Linux, Socket.io
 
 Email: rishavkumar62@yahoo.com  
 LinkedIn: linkedin.com/in/rishavkumar903  
-GitHub: github.com/rishav903188
+GitHub: github.com/rishav903188</br>
 Portfolio: https://portfolio-one-sigma-5gji5qyhss.vercel.app
 
 ---
