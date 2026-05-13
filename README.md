@@ -28,7 +28,7 @@ I build scalable full stack applications with a strong focus on backend systems,
 C++, JavaScript, Python, SQL  
 
 **Frontend**  
-React.js, Tailwind CSS, Redux Toolkit  
+Tailwind CSS, Redux Toolkit  
 
 **Backend**  
 Node.js, Express.js  
