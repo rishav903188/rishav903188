@@ -7,8 +7,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/rishavkumar903">LinkedIn</a> •
-  <a href="https://leetcode.com/rishav9031">LeetCode</a> •
-  <a href="mailto:rishavkumar62@yahoo.com">Email</a>
+  <a href="mailto:rishav90318@gmail.com">Email</a>
 </p>
 
 ---
