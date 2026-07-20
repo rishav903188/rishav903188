@@ -14,30 +14,27 @@
 
 ## About Me
 
-I build scalable full stack applications with a strong focus on backend systems, real-time communication, and clean architecture.
-
-- Experience with REST APIs and production-level systems  
-- Built real-time applications using Socket.io  
-- Focused on writing maintainable and scalable code  
-
----
+Backend-focused Full Stack Developer passionate about building scalable, secure, and high-performance web applications. Experienced in designing RESTful APIs, real-time systems with Socket.io, and production-ready backend architectures using Node.js, Express.js, PostgreSQL, MongoDB, Redis, and Docker. Strong foundation in Data Structures & Algorithms with a focus on writing clean, maintainable, and scalable code.
 
 ## Tech Stack
 
-**Languages**  
-C++, JavaScript, Python, SQL  
+**Languages**
+C++, JavaScript (ES6+), Python, SQL
 
-**Frontend**  
-Tailwind CSS, Redux Toolkit  
+**Frontend**
+React.js, Tailwind CSS, Redux Toolkit, React Query, HTML5, CSS3
 
-**Backend**  
-Node.js, Express.js  
+**Backend**
+Node.js, Express.js, REST APIs, JWT Authentication, Zod, BullMQ, Node-Cron, Swagger (OpenAPI)
 
-**Databases**  
-MongoDB, MySQL  
+**Databases**
+MongoDB, PostgreSQL, MySQL, Redis
 
-**Tools & Cloud**  
-AWS (EC2, S3, IAM, RDS, VPC), Docker, Git, Linux, Socket.io  
+**Cloud & DevOps**
+AWS (EC2, S3, IAM, RDS, VPC), Docker, Linux, Nginx
+
+**Tools**
+Git, GitHub, Postman, Prisma ORM, MongoDB Compass, Socket.io
 
 ---
 
